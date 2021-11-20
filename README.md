@@ -1,0 +1,1 @@
+This tutorial covers the basic of getting started with CMake.
